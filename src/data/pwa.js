@@ -1,15 +1,15 @@
 export const pwaCollection = {
-	name: "Progressive Webapps",
+	name: "Programming Language",
 	areas: [
 		{
-			name: "API's",
+			name: "C#",
 			skills: [
 				{
-					name: "Storage",
+					name: "General Outline",
 					description: {
-						text: "Learn how to store data for your web app.",
+						text: "What is C#? It's a powerful and widely used programming language that you can use to make websites, games, mobile apps, desktop apps and more with .NET. Learn C#, get started, and it'll give you the world.",
 						links: [
-							["MDN - Storage", "https://developer.mozilla.org/en-US/docs/Web/API/Storage_API"],
+							["Microsoft - Numbers and Integer Precision", "https://www.youtube.com/watch?v=BM4CHBmAPh4&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN"],
 							["MDN - Web Storage API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API"],
 							["MDN - Cookies", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies"],
 							["MDN - IndexedDB API", "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API"],
