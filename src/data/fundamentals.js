@@ -100,6 +100,15 @@ export const fundamentalsCollection = {
 						]
 					}
 				},
+				{
+					name: "리눅스 명령어와 관습들",
+					description: {
+						text: "따라하면서 배우는 33가지 리눅스 명령어와 관습들",
+						links: [
+							["참고자료", "https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner"],
+						]
+					}
+				},
 			]
 		},
 		{
