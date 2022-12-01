@@ -19,13 +19,11 @@ export const pwaCollection = {
 					}
 				},
 				{
-					name: "Routing",
+					name: "Rigidbody - introduction",
 					description: {
-						text: "Learn what routing means in single page applications.",
+						text: "게임 오브젝트의 물리적 동작을 가능하게 하는 주요 컴포넌트이다.",
 						links: [
-							["How Single-Page Applications Work", "https://blog.pshrmn.com/how-single-page-applications-work/"],
-							["Static Apps - Routing URLs in Static Web Apps", "https://staticapps.org/articles/routing-urls-in-static-apps/"],
-							["Routing With Single Page Applications or Client Side Routing", "https://pennyforyourcode.com/tldr-routing-with-single-page-applications-or-client-side-routing-327626cdc5dd"],
+							["Unity website", "https://docs.unity3d.com/kr/2020.3/Manual/RigidbodiesOverview.html"]
 						]
 					},
 					skills: [
