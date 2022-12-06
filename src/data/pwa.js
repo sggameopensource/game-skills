@@ -30,17 +30,12 @@ export const pwaCollection = {
 					},
 					skills: [
 						{
-							name: "History API",
+							name: "Rigidbody",
 							description: {
-								text: "Learn how to use the history API to add single page applicaiton routing to your web app.",
+								text: "mass, drag, angular drag, use gravity, is kinematic, interpolate, collision detection 등이 있다.",
 								links: [
-									["MDN - Working with the History API", "https://developer.mozilla.org/en-US/docs/Web/API/History_API/Working_with_the_History_API"],
-									["MDN - History API", "https://developer.mozilla.org/en-US/docs/Web/API/History_API"],
-									["Single-page application routing in vanilla JavaScript", "https://medium.com/@george.norberg/history-api-getting-started-36bfc82ddefc"],
-									["CSS Tricks - Using the HTML5 History API", "https://css-tricks.com/using-the-html5-history-api/"],
-									["The History API", "https://flaviocopes.com/history-api/"],
-									["Google Devs - History API: Scroll Restoration", "https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration"],
-									["MDN - The Document Base URL element", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base"]
+									["Unity - Documentation", "https://docs.unity3d.com/kr/2020.3/Manual/class-Rigidbody.html"],
+									["Unity - tistory", "https://coding-of-today.tistory.com/138"]
 								]
 							},
 						}
