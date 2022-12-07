@@ -1,21 +1,61 @@
 export const frameworksAndLibrariesCollection = {
-	name: "Frameworks & Libraries",
+	name: "Programming Languages	",
 	areas: [
 		{
 			skills: [
 				{
-					name: "lit-element",
+					name: "C Sharp",
 					description: {
-						text: "Learn how to use lit-element for creating fast, lightweight web components.",
+						text: "Programming Languages - C Sharp",
 						links: [
-							["lit-element", "https://lit-element.polymer-project.org/"],
-							["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
-							["Vaadin - Creating a LitElement project", "https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project"],
-							["dev.to - Web Components: from zero to hero, part three", "https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h"],
+							["Microsoft Docs - C#", "https://learn.microsoft.com/ko-kr/dotnet/csharp/"]
+						]
+					},
+					skills: [
+						{
+							name: "Properties",
+							description: {
+								text: "Learn how to use C# properties.",
+								links: [
+									["Microsoft Docs - C# - Properties", "https://learn.microsoft.com/ko-kr/dotnet/csharp/properties"]
+								]
+							}
+						},
+						{
+							name: "Interface",
+							description: {
+								text: "Learn how to use C# Interface.",
+								links: [
+									["Microsoft Docs - C# - Interface", "https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/interface"]
+								]
+							}
+						},
+						{
+							name: "Delegate",
+							description: {
+								text: "Learn how to use C# Delegate.",
+								links: [
+									["Microsoft Docs - C# - Dlegate overview", "https://learn.microsoft.com/ko-kr/dotnet/csharp/delegates-overview"],
+									["Microsoft Docs - C# - Dlegate", "https://learn.microsoft.com/ko-kr/dotnet/csharp/programming-guide/delegates/"]
+								]
+							}
+						}
+					]
+				},
+				{
+					name: "Best practices",
+					description: {
+						text: "Get familiar with best practices when it comes to building Web Components.",
+						links: [
+							["Google Devs - Custom Element Best Practices", "https://developers.google.com/web/fundamentals/web-components/best-practices"],
+							["Webcomponents.org - Web Components Best Practices", "https://www.webcomponents.org/community/articles/web-components-best-practices"],
+							["mateusortiz - Web Components the Right Way", "https://github.com/mateusortiz/webcomponents-the-right-way"],
+							["dev.to - Making Web Components for Different Contexts", "https://dev.to/equinusocio/making-web-components-for-different-contexts-25ed"]
 						]
 					}
 				},
 				{
+					
 					name: "Vue",
 					description: {
 						text: "Learn about Vue and how you can use it for building web apps.",
