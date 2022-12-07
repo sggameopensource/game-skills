@@ -29,6 +29,16 @@ export const frameworksAndLibrariesCollection = {
 									["Microsoft Docs - C# - Interface", "https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/interface"]
 								]
 							}
+						},
+						{
+							name: "Delegate",
+							description: {
+								text: "Learn how to use C# Delegate.",
+								links: [
+									["Microsoft Docs - C# - Dlegate overview", "https://learn.microsoft.com/ko-kr/dotnet/csharp/delegates-overview"],
+									["Microsoft Docs - C# - Dlegate", "https://learn.microsoft.com/ko-kr/dotnet/csharp/programming-guide/delegates/"]
+								]
+							}
 						}
 					]
 				},
