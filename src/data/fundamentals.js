@@ -1,34 +1,29 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "개발 기초",
 	areas: [
 		{
-			name: "HTML",
+			name: "git/github",
 			skills: [
 				{
-					name: "Syntax",
+					name: "git init",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "깃을 사용하는 방법 익히기 git init 사용",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["https://www.youtube.com/watch?v=fCY1t3QSEhw&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=6"],
 						]
-					},
-					skills: [
-						{
-							name: "Basic Tags",
-							description: {
-								text: "Get familiar with the basic HTML tags",
-								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
-								]
-							},
-						},
-					]
+					},	
 				},
+
+				{
+					name: "git add",
+					description: {
+						text: "파일을 생성하여 해당 파일이 버전관리 되는 모습 보기 git add 사용해보기",
+						links: [
+							["https://www.youtube.com/watch?v=lQ0AyoCZzns&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=7"],
+						]
+					},	
+				},
+
 				{
 					name: "Forms",
 					description: {
