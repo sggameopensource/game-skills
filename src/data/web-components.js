@@ -24,6 +24,18 @@ export const webcomponentsCollection = {
 							["해시넷 - 행동 패턴", "https://en.wikipedia.org/wiki/Creational_pattern"]
 						]
 					}
+				},
+				{
+					name: "구조 패턴",
+					description: {
+						text: "클래스와 객체를 더 큰 구조로 만들 수 있게 구상을 사용하는 패턴",
+						links: [
+							["한빛출판네트워크 : 14가지 핵심 디자인 패턴", "https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8616098823"],
+							["ha0kim.log : 구조 패턴", "https://velog.io/@ha0kim/Design-Pattern-%EC%83%9D%EC%84%B1-%ED%8C%A8%ED%84%B4Creational-Patterns"],
+							["해시넷 : 구조 패턴", "https://en.wikipedia.org/wiki/Creational_pattern"],
+							["refactoring.guru : 구조 패턴", "https://refactoring.guru/ko/design-patterns/structural-patterns"]
+						]
+					}
 				}
 			]
 		}
