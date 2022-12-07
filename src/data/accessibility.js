@@ -26,7 +26,7 @@ export const accessibilityCollection = {
 				},
 				
 				{
-					name: "알고리즘 개념과 종류",
+					name: "알고리즘",
 					description: {
 						text: "알고리즘 관련",
 						links: [
