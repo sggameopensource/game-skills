@@ -18,16 +18,18 @@ export const buildtoolsCollection = {
 								]
 							},
 						},
-						// {
-						// 	name: "Yarn1234",
-						// 	description: {
-						// 		text: "Learn about Yarn and how it can be used to manage dependencies.",
-						// 		links: [
-						// 			["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
-						// 			["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],
-						// 		]
-						// 	},
-						// }
+						{
+							name: "Vector",
+							description: {
+								text: "게임수학 기초중 벡터입니다.\n벡터의 개요와 선형대수, 내적, 외적에 대하여 기술하고 있습니다.",
+								links: [
+									["About Vector", "https://luv-n-interest.tistory.com/715"],
+									["Linear Algebra", "//luv-n-interest.tistory.com/716"],
+									["Dot Product, Inner Product", "https://luv-n-interest.tistory.com/718?category=973578"],
+									["Cross Product", "https://luv-n-interest.tistory.com/720?category=973578"],
+								]
+							},
+						}
 					]
 				},
 				{
