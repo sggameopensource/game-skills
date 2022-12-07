@@ -4,34 +4,29 @@ export const buildtoolsCollection = {
 		{
 			skills: [
 				{
-					name: "Package Managers",
+					name: "GAME MATH",
 					description: {
-						text: "Learn about package managers and how they make managing dependencies easier.",
-						links: [
-							["Freecodecamp - How JavaScript package managers work", "https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/"],
-							["Guide to JavaScript frontend package managers", "https://www.javascriptstuff.com/javascript-frontend-package-managers/"],
-						]
+						text: "게임수학의 메트릭스와 벡터입니다.",
 					},
 					skills: [
 						{
-							name: "NPM",
+							name: "Matrix",
 							description: {
-								text: "Learn about NPM and how it can be used to manage dependencies.",
+								text: "게임수학 기초중 메트릭스 입니다.",
 								links: [
-									["npmjs - About npm", "https://docs.npmjs.com/about-npm/"],
-									["npmjs - Getting started", "https://docs.npmjs.com/getting-started/"],
-									["Introduction to npm and basic npm commands", "https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b"],
-									["An Absolute Beginner's Guide to Using npm", "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/"],
+									["Matrix - About Matrix", "https://parksh86.tistory.com/132"],
 								]
 							},
 						},
 						{
-							name: "Yarn",
+							name: "Vector",
 							description: {
-								text: "Learn about Yarn and how it can be used to manage dependencies.",
+								text: "게임수학 기초중 벡터입니다.\n벡터의 개요와 선형대수, 내적, 외적에 대하여 기술하고 있습니다.",
 								links: [
-									["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
-									["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],
+									["About Vector", "https://luv-n-interest.tistory.com/715"],
+									["Linear Algebra", "//luv-n-interest.tistory.com/716"],
+									["Dot Product, Inner Product", "https://luv-n-interest.tistory.com/718?category=973578"],
+									["Cross Product", "https://luv-n-interest.tistory.com/720?category=973578"],
 								]
 							},
 						}
