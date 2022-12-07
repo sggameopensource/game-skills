@@ -22,11 +22,11 @@ export const frameworksAndLibrariesCollection = {
 							}
 						},
 						{
-							name: "Slots",
+							name: "Interface",
 							description: {
-								text: "Learn how to compose Custom Elements by using slots.",
+								text: "Learn how to use C# Interface.",
 								links: [
-									["Alligator.io - Composing Custom Elements", "https://alligator.io/web-components/composing-slots-named-slots/"]
+									["Microsoft Docs - C# - Interface", "https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/interface"]
 								]
 							}
 						}
