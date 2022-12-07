@@ -32,17 +32,19 @@ export const accessibilityCollection = {
 						links: [
 							["알고리즘 개념과 종류", "https://okiidokii.tistory.com/190"],
 						]
-					}
-				},
-				{
-					name: "자료구조&알고리즘",
-					description: {
-						text: "Hash 관련",
-						links: [
-							["Hash란?", "https://go-coding.tistory.com/30"],
-							["Hash 탐색법", "https://excelsior-cjh.tistory.com/125"]
-						]
-					}
+					},
+					skills: [
+						{
+							name: "Hash",
+							description: {
+								text: "Hash 관련",
+								links: [
+									["Hash란?", "https://go-coding.tistory.com/30"],
+									["Hash 탐색법", "https://excelsior-cjh.tistory.com/125"]
+								]
+							}
+						},
+					]
 				},
 			]
 		}
