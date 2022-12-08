@@ -35,7 +35,15 @@ export const fundamentalsCollection = {
 						]
 					},	
 				},
-
+				{
+					name: "commit의 원리",
+					description: {
+						text: "commit의 원리를 알아보자",
+						links: [
+							["https://www.youtube.com/watch?v=ZrJHsk73y84&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=18&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9"],
+						]
+					},	
+				},
 				
 				
 
