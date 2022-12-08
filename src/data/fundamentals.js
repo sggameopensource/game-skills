@@ -1,91 +1,53 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "개발 기초",
 	areas: [
 		{
-			name: "HTML",
+			name: "git/github",
 			skills: [
 				{
-					name: "Syntax",
+					name: "설치방법",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "운영체제별 설치방법",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["MAC  ","https://www.youtube.com/watch?v=nw0x0cvg-iM&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=3"],
+							["WINDOWS  "," https://www.youtube.com/watch?v=JKT9laOAPIs&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=2"],
+							["UNIX / LINUX  "," https://www.youtube.com/watch?v=S1BYwbkrojw&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=4"]
 						]
-					},
-					skills: [
-						{
-							name: "Basic Tags",
-							description: {
-								text: "Get familiar with the basic HTML tags",
-								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
-								]
-							},
-						},
-					]
+					},	
+				},
+
+				{
+					name: "git init",
+					description: {
+						text: "깃을 사용하는 방법 익히기 git init 사용",
+						links: [
+							["https://www.youtube.com/watch?v=fCY1t3QSEhw&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=6"],
+						]
+					},	
+				},
+
+				{
+					name: "git add",
+					description: {
+						text: "파일을 생성하여 해당 파일이 버전관리 되는 모습 보기 git add 사용해보기",
+						links: [
+							["https://www.youtube.com/watch?v=lQ0AyoCZzns&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=7"],
+						]
+					},	
 				},
 				{
-					name: "Forms",
+					name: "commit의 원리",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
+						text: "commit의 원리를 알아보자",
 						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
+							["https://www.youtube.com/watch?v=ZrJHsk73y84&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=18&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9"],
 						]
-					}
+					},	
 				},
-				{
-					name: "SEO",
-					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
-					},
-					skills: [
-						{
-							name: "Discoverable Content",
-							description: {
-								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
-								links: [
-									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
-									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
-									["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
-									["web.dev - Easily discoverable", "https://web.dev/discoverable"]
-								]
-							}
-						}
-					]
-				},
-				{
-					name: "Svg",
-					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
-					}
-				},
-				{
-					name: "Best Practices",
-					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
-					}
-				}
+				
+				
+
+					
 			]
 		},
 		{
